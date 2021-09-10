@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T07:42:11.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="os13pT6MQOq6npIVp4OJ" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T07:46:30.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.38" etag="9npuKcvBCDvAU6pF_ks7" version="15.1.4" type="github">
   <diagram id="V3H-VonNarzpZgswvQBx" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,6 +196,24 @@
               <mxPoint x="230" y="350" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4S8gD0fRMD5rj0Q8CYdr-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.238;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4S8gD0fRMD5rj0Q8CYdr-42" target="4S8gD0fRMD5rj0Q8CYdr-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4S8gD0fRMD5rj0Q8CYdr-42" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4S8gD0fRMD5rj0Q8CYdr-50" value="Queue 1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4S8gD0fRMD5rj0Q8CYdr-51" value="Queue 2" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="505" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4S8gD0fRMD5rj0Q8CYdr-52" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4S8gD0fRMD5rj0Q8CYdr-53" value="Rabbit MQ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
